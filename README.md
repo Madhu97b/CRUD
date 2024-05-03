@@ -13,6 +13,7 @@ This project helps us to better understanding the concepts of Create,Read,Update
 #### 01. Dart Sdk
 #### 02. Flutter
 #### 03. Android Studio or VS Code (IDE)
+#### 04. Java jdk
 
 
 
