@@ -1,10 +1,20 @@
-# flutter_application_4
+# CRUD Operations Using Flutter and Firebase
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## Introduction:-
+This project helps us to better understanding the concepts of Create,Read,Update,Delete Operations using Flutter and Firebase. 
+
+## Software Requirements:-
+#### 01. Dart Sdk
+#### 02. Flutter
+#### 03. Android Studio or VS Code (IDE)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
